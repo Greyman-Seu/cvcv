@@ -2,6 +2,7 @@
 ## 基础教程
 
 ## latex公式
+https://simpletex.cn/ai/latex_ocr
 
 ## vscode-md
 ### 如何便于使用vscode
