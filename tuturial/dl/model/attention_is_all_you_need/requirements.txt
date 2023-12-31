@@ -1,0 +1,4 @@
+dill
+msgpack-numpy
+msgpack-python
+torchtext
