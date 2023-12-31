@@ -1,0 +1,3 @@
+[submodule "tuturial/dl/model/attention_is_all_you_need/attention-is-all-you-need-pytorch"]
+	path = tuturial/dl/model/attention_is_all_you_need/attention-is-all-you-need-pytorch
+	url = https://github.com/jadore801120/attention-is-all-you-need-pytorch.git
