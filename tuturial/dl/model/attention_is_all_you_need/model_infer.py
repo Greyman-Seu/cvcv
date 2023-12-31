@@ -1,8 +1,7 @@
 import torch
 import sys
-sys.path.insert(0, "tuturial/dl/model/attention_is_all_you_need/code")
+sys.path.insert(0, "tuturial/dl/model/attention_is_all_you_need/attention-is-all-you-need-pytorch")
 
-# from code.transformer.Models import Transformer
 from tuturial.dl.model.attention_is_all_you_need.code.transformer.Models import Transformer
 
 # 模型参数 from chatgpt
