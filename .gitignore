@@ -147,6 +147,10 @@ cython_debug/
 # build whl file
 *whl
 
+# cpp
+**/.DS_Store
+tuturial/cpp/.DS_Store
+
 # cvcv
 example/
 sync/
