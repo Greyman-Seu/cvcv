@@ -3,8 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# C extensions
+# C/CPP extensions
 *.so
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+
 
 # Distribution / packaging
 .Python

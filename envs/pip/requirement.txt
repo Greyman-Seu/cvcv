@@ -1,3 +1,4 @@
 timm
+fvcore
 torch
 torchvision
