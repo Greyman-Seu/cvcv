@@ -2,3 +2,6 @@ timm
 fvcore
 torch
 torchvision
+
+# 格式工具
+pre-commit
