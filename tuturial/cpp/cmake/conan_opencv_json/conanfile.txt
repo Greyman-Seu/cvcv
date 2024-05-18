@@ -1,0 +1,9 @@
+# conan2.3
+[requires]
+# opencv/4.5.3 # 建议使用apt/brew install opencv
+nlohmann_json/3.9.1
+
+[generators]
+# cmake
+CMakeToolchain
+CMakeDeps

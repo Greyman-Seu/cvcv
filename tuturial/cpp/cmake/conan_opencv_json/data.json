@@ -1,0 +1,11 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "is_student": false,
+    "hobbies": ["reading", "coding", "traveling"],
+    "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "zip": "12345"
+    }
+}
