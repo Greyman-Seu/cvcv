@@ -1,10 +1,12 @@
 # -*- encoding: utf-8 -*-
 # Copyright (c) TenStep[yangkun.zhu]. All rights reserved.
 
-from __future__ import absolute_import
-from __future__ import division
-from __future__ import print_function
-from __future__ import unicode_literals
+from __future__ import (
+    absolute_import,
+    division,
+    print_function,
+    unicode_literals,
+)
 
 from setuptools import find_packages, setup
 
@@ -32,5 +34,4 @@ if __name__ == "__main__":
         zip_safe=False,
         include_package_data=True,
         install_requires=requires,
-        # extras_require=extras_require,
     )

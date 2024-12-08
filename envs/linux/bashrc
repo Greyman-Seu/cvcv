@@ -1,0 +1,17 @@
+# ==== env set ==== 
+# cuda
+# export CUDA_HOME=/usr/local/cuda-12.3/ 
+# export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:${CUDA_HOME}/lib64
+# export PATH=${CUDA_HOME}/bin:${PATH}
+
+# ==== alias ==== 
+# 1. tool
+alias ss="/home/tenstep/env/tool/snipaste/Snipaste-2.10.3-x86_64.AppImage"
+# 2. alias
+alias hh="cd ~/workspace" # workspace home
+alias py39="conda activate py39"
+alias gs="git status"
+alias gb="git branch"
+
+# init env
+py39
